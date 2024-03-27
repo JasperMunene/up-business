@@ -43,7 +43,7 @@ function Footer() {
           </div>
       </div>
       <div>
-        <h3>About Us</h3>
+        <h3 className='text-lg font-bold'>About Us</h3>
         <ul>
           <li><a>Home</a></li>
           <li><a>How we work</a></li>
